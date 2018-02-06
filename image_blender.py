@@ -5,3 +5,5 @@ nmos673 = fits.open("673nmos.fits")
 v1 = nmos502[0].data
 v2 = nmos656[0].data
 v3 = nmos673[0].data
+
+print("This is a mistake!")
